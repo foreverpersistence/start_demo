@@ -24,6 +24,14 @@
             <optional>true</optional><!--可选,默认不会继承-->
         </dependency>
 
+<!--处理 properties 文件-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-configuration-processor</artifactId>
+            <version>2.2.6.RELEASE</version>
+            <optional>true</optional>
+        </dependency>
+
     </dependencies>
 
     <build>

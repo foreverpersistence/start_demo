@@ -1,0 +1,10 @@
+dev.properties
+.idea
+*.iml
+target
+nohup.out
+output
+deploy
+deploy.tar.gz
+.DS_Store
+config.zip

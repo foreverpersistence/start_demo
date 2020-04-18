@@ -1,6 +1,0 @@
-com\fred\learning\formatspringbootstarter\autoconfiguration\HelloAutoConfiguration.class
-com\fred\learning\formatspringbootstarter\format\FormatProcessor.class
-com\fred\learning\formatspringbootstarter\format\JsonFormatProcessor.class
-com\fred\learning\formatspringbootstarter\autoconfiguration\FormatAutoConfiguration.class
-com\fred\learning\formatspringbootstarter\format\StringFormatProcessor.class
-com\fred\learning\formatspringbootstarter\HelloTemplate.class
